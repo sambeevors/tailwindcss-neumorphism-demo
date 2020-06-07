@@ -1,0 +1,29 @@
+{
+  "name": "tailwindcss-neumorphism-demo",
+  "version": "1.0.0",
+  "description": "This is a simple demo of some of things you can do with tailwindcss-neumorphism",
+  "main": "public/index.html",
+  "scripts": {
+    "build": "gulp build",
+    "dev": "gulp dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parallax/tailwindcss-neumorphism-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/parallax/tailwindcss-neumorphism-demo/issues"
+  },
+  "homepage": "https://github.com/parallax/tailwindcss-neumorphism-demo#readme",
+  "dependencies": {
+    "@fullhuman/postcss-purgecss": "^2.2.0",
+    "cssnano": "^4.1.10",
+    "gulp": "^4.0.2",
+    "gulp-postcss": "^8.0.0",
+    "tailwindcss": "^1.4.6",
+    "tailwindcss-gradients": "^3.0.0",
+    "tailwindcss-neumorphism": "^0.0.2"
+  }
+}
