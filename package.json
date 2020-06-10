@@ -24,6 +24,6 @@
     "gulp-postcss": "^8.0.0",
     "tailwindcss": "^1.4.6",
     "tailwindcss-gradients": "^3.0.0",
-    "tailwindcss-neumorphism": "^0.0.2"
+    "tailwindcss-neumorphism": "^0.1.0"
   }
 }

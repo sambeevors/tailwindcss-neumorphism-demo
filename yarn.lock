@@ -3144,10 +3144,10 @@ tailwindcss-gradients@^3.0.0:
     color "^3.1.2"
     lodash "^4.17.15"
 
-tailwindcss-neumorphism@^0.0.2:
-  version "0.0.2"
-  resolved "https://registry.yarnpkg.com/tailwindcss-neumorphism/-/tailwindcss-neumorphism-0.0.2.tgz#37b01fd6eab4d8f554a0e3da74d15f637fc2406f"
-  integrity sha512-8QKv7HjilSyFmpy7VF8rue7RcSr2iuPuWrW0mygwDOpUbX0y/JQqCd+WcpYWNNZwh26zLu78Fsi/agwpQ1DZnw==
+tailwindcss-neumorphism@^0.1.0:
+  version "0.1.0"
+  resolved "https://registry.yarnpkg.com/tailwindcss-neumorphism/-/tailwindcss-neumorphism-0.1.0.tgz#9687236de699fd043bb583693143d73893bb186d"
+  integrity sha512-6dTqnTVGcTBHNq4MJLqabRHcbDp8JNwImGcd+a7tqPGYJBckhl+bbr8nXJtogS63HqnDKTk59MljaYLrhFr6YQ==
   dependencies:
     color "^3.1.2"
     loadash "^1.0.0"
